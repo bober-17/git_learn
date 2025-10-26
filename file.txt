@@ -1,5 +1,9 @@
 Hello
 
+<<<<<<< HEAD
 Two Hello
 
 Four Hello
+=======
+feature2
+>>>>>>> feature2
